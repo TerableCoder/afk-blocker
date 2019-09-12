@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "name": "afk-blocker",
+    "author": "TerableCoder",
+    "homepage": "https://github.com/TerableCoder/afk-blocker",
+    "description": "Blocks the afk packet",
+    "version": "1",
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/afk-blocker/master/"]
+}

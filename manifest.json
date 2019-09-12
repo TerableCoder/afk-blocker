@@ -1,0 +1,11 @@
+{
+	"files": {
+		"index.js": "dabfafa7e9cc6f6186c0a1dd4294b5c3a1e0e21b8d436b770a92de393f9842b5",
+		"module.json": "1bd04e42b045c3a912e62b080afa2f0d2ba1b9d74c077c3ffa8657acd1b1abe5",
+		"README.md": "bb7a0cf005ef8dc9aca6b1d0a2162a2972106baaf8602a694e5a16889ef549b3",
+		"protocol/C_UPDATE_AFK_STATUS.1.def": "af0752f95f76b91436a758d2f5c3f99a829dc330e6b46461a7334f7b5fa12977"
+	},
+	"defs": {
+		"C_UPDATE_AFK_STATUS": 1
+	}
+}
